@@ -13,7 +13,7 @@ $ apt upgrade
 
 $ pkg install git -y
 
-$ git clone https://github.com/tigerhackmalayalam/text-repeater.git
+$ git clone https://github.com/BijayaTamang/text-repeater
 
 $ cd text-repeater
 
